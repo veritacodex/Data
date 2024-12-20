@@ -5,6 +5,6 @@ static class Program
 {
     static void Main()
     {
-        Console.WriteLine("Generator");
+        Console.WriteLine(Common.Helper.Utils.GetSolutionDirectory());
     }
 }
