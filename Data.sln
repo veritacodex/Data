@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{36A650DD-8D35-4F04-8B3B-BB6D9C58974D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Generator.csproj", "{C9D347B6-3183-494D-AD3B-FCC78926DB1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{36A650DD-8D35-4F04-8B3B-BB6D9C58974D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36A650DD-8D35-4F04-8B3B-BB6D9C58974D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36A650DD-8D35-4F04-8B3B-BB6D9C58974D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D347B6-3183-494D-AD3B-FCC78926DB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D347B6-3183-494D-AD3B-FCC78926DB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D347B6-3183-494D-AD3B-FCC78926DB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D347B6-3183-494D-AD3B-FCC78926DB1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
