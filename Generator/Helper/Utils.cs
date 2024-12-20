@@ -1,7 +1,7 @@
 using System.IO;
 using System.Linq;
 
-namespace Common.Helper;
+namespace Generator.Helper;
 
 public static class Utils
 {
